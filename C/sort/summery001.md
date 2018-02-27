@@ -30,7 +30,7 @@
 ![sort003](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort003.jpg)
 
 算法：
-```
+```c
 void Bubble_Sort(int* nums,int numsSize) {
     int p,i;
     int temp;
@@ -76,7 +76,7 @@ void Bubble_Sort(int* nums,int numsSize) {
 
 算法：
 
-```
+```c
 void Quick_Sort(int* nums,int left,int right) {
     if (left>=right) return ;
 
@@ -112,7 +112,7 @@ void Quick_Sort(int* nums,int left,int right) {
 
 算法：
 
-```
+```c
 void Insert_Sort(int* nums,int numsSize) {
     int p,i;
     int temp;
@@ -149,7 +149,7 @@ void Insert_Sort(int* nums,int numsSize) {
 
 算法：
 
-```
+```c
 #取增量序列为Dk = D(k+1)/2
 void Shell_Sort(int* nums,int numsSize) {
     int p,i;
@@ -183,7 +183,7 @@ void Shell_Sort(int* nums,int numsSize) {
 
 算法：
 
-```
+```c
 #找到最小的数，所在的位置
 #i从0开始到最后遍历，如果当前位置i不是最小值所在位置，则用temp进行交换
 int findMin(int* nums,int numsSize,int x) {
@@ -244,7 +244,7 @@ void Select_Sort(int* nums,int numsSize) {
 
 算法：
 
-```
+```c
 #建堆，并由上到下过滤，调整为最大堆
 #最大堆过滤函数和DeleteMax类似，不同的是，PercDown不从0开始而从x=i开始，且只过滤不返回值
 void PercDown(int* H,int x,int len) {
@@ -299,7 +299,7 @@ void Heap_Sort(int* nums,int numsSize) {
 ![sort014](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort014.jpg)
 
 算法：
-```
+```c
 #定义归并函数
 #L、LeftEnd、R、RightEnd分别代表左边起点、左边终点、右边起点、右边终点
 #A,TmpA分别为数组、临时数组，len为数组长度
@@ -383,7 +383,7 @@ void Merge_Sort(int* nums,int numsSize) {
 
 
 算法
-```
+```c
 
 
 ```
