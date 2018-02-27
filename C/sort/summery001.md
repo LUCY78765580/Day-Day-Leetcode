@@ -9,7 +9,7 @@
 
 ![sort001](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort001.jpg)
 
-![sort002]()
+![sort002](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort002.jpg)
 
 以下举Leetcdoe中 [15、3sum](https://leetcode.com/problems/3sum/description/) 这一题为例（代码全部测试通过 :blush:）
 <br>
@@ -27,7 +27,7 @@
 
 图解：
 
-![sort003]()
+![sort003](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort003.jpg)
 
 算法：
 ```
@@ -69,9 +69,9 @@ void Bubble_Sort(int* nums,int numsSize) {
 
 图解：
 
-![sort004]()
+![sort004](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort004.jpg)
 
-![sort005]()
+![sort005](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort005.jpg)
 
 
 算法：
@@ -108,7 +108,7 @@ void Quick_Sort(int* nums,int left,int right) {
 
 图解：
 
-![sort006]()
+![sort006](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort006.jpg)
 
 算法：
 
@@ -145,7 +145,7 @@ void Insert_Sort(int* nums,int numsSize) {
 
 图解：
 
-![sort007]()
+![sort007](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort007.jpg)
 
 算法：
 
@@ -179,7 +179,7 @@ void Shell_Sort(int* nums,int numsSize) {
 
 图解：
 
-![sort008]()
+![sort008](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort008.jpg)
 
 算法：
 
@@ -232,15 +232,15 @@ void Select_Sort(int* nums,int numsSize) {
 
 图解：
 
-![sort013]()
+![sort013](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort013.jpg)
 
-![sort009]()
+![sort009](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort009.jpg)
 
-![sort010]()
+![sort010](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort010.jpg)
 
-![sort011]()
+![sort011](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort011.jpg)
 
-![sort012]()
+![sort012](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort012.jpg)
 
 算法：
 
@@ -296,7 +296,7 @@ void Heap_Sort(int* nums,int numsSize) {
 
 图解：
 
-![sort014]()
+![sort014](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort014.jpg)
 
 算法：
 ```
@@ -379,7 +379,7 @@ void Merge_Sort(int* nums,int numsSize) {
 <br>
 图解：
 
-![sort015]()
+![sort015](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort015.jpg)
 
 
 算法
