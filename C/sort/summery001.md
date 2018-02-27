@@ -7,7 +7,7 @@
 排序分**内部排序**和**外部排序**。内部排序是数据记录在内存中进行排序，外部排序需要访问外存（数据量很大）
 一般八大排序指的是内部排序。各种排序及其复杂度如下图所示。
 
-![sort001]()
+![sort001](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort001.jpg)
 
 ![sort002]()
 
