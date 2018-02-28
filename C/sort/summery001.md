@@ -11,7 +11,7 @@
 
 ![sort002](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort002.jpg)
 
-以下举Leetcdoe中 [15、3sum](https://leetcode.com/problems/3sum/description/) 这一题为例（代码全部测试通过 :blush:）
+以下举Leetcdoe中 [15、3sum](https://leetcode.com/problems/3sum/description/) 这一题为例:blush:
 <br>
 <br>
 <br>
@@ -469,4 +469,5 @@ void sort2(int* nums, int numsSize, int loop) {
 
 参考博客：
 1、http://blog.csdn.net/hguisu/article/details/7776068
+
 2、https://www.cnblogs.com/0zcl/p/6737944.html
