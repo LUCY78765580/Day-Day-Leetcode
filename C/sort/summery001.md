@@ -384,6 +384,7 @@ void Merge_Sort(int* nums,int numsSize) {
 
 算法
 ```c
+<<<<<<< HEAD
 //基数排序
 void Bucket_Sort(int* nums, int numsSize)
 {
@@ -412,6 +413,8 @@ int getLoopTimes(int num) {
     }
     return count;
 }
+=======
+>>>>>>> origin/master
 
 //查询数组的最大数
 int findMaxNum(int* nums, int numsSize) {
