@@ -7,9 +7,9 @@
 排序分**内部排序**和**外部排序**。内部排序是数据记录在内存中进行排序，外部排序需要访问外存（数据量很大）
 一般八大排序指的是内部排序。各种排序及其复杂度如下图所示。
 
-![sort001]()
+![sort001](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort001.jpg)
 
-![sort002]()
+![sort002](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort002.jpg)
 
 以下举Leetcdoe中 [15、3sum](https://leetcode.com/problems/3sum/description/) 这一题为例（代码全部测试通过 :blush:）
 <br>
@@ -27,10 +27,10 @@
 
 图解：
 
-![sort003]()
+![sort003](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort003.jpg)
 
 算法：
-```
+```c
 void Bubble_Sort(int* nums,int numsSize) {
     int p,i;
     int temp;
@@ -69,14 +69,14 @@ void Bubble_Sort(int* nums,int numsSize) {
 
 图解：
 
-![sort004]()
+![sort004](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort004.jpg)
 
-![sort005]()
+![sort005](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort005.jpg)
 
 
 算法：
 
-```
+```c
 void Quick_Sort(int* nums,int left,int right) {
     if (left>=right) return ;
 
@@ -108,11 +108,11 @@ void Quick_Sort(int* nums,int left,int right) {
 
 图解：
 
-![sort006]()
+![sort006](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort006.jpg)
 
 算法：
 
-```
+```c
 void Insert_Sort(int* nums,int numsSize) {
     int p,i;
     int temp;
@@ -145,11 +145,11 @@ void Insert_Sort(int* nums,int numsSize) {
 
 图解：
 
-![sort007]()
+![sort007](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort007.jpg)
 
 算法：
 
-```
+```c
 #取增量序列为Dk = D(k+1)/2
 void Shell_Sort(int* nums,int numsSize) {
     int p,i;
@@ -179,11 +179,11 @@ void Shell_Sort(int* nums,int numsSize) {
 
 图解：
 
-![sort008]()
+![sort008](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort008.jpg)
 
 算法：
 
-```
+```c
 #找到最小的数，所在的位置
 #i从0开始到最后遍历，如果当前位置i不是最小值所在位置，则用temp进行交换
 int findMin(int* nums,int numsSize,int x) {
@@ -232,19 +232,19 @@ void Select_Sort(int* nums,int numsSize) {
 
 图解：
 
-![sort013]()
+![sort013](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort013.jpg)
 
-![sort009]()
+![sort009](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort009.jpg)
 
-![sort010]()
+![sort010](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort010.jpg)
 
-![sort011]()
+![sort011](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort011.jpg)
 
-![sort012]()
+![sort012](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort012.jpg)
 
 算法：
 
-```
+```c
 #建堆，并由上到下过滤，调整为最大堆
 #最大堆过滤函数和DeleteMax类似，不同的是，PercDown不从0开始而从x=i开始，且只过滤不返回值
 void PercDown(int* H,int x,int len) {
@@ -296,10 +296,10 @@ void Heap_Sort(int* nums,int numsSize) {
 
 图解：
 
-![sort014]()
+![sort014](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort014.jpg)
 
 算法：
-```
+```c
 #定义归并函数
 #L、LeftEnd、R、RightEnd分别代表左边起点、左边终点、右边起点、右边终点
 #A,TmpA分别为数组、临时数组，len为数组长度
@@ -379,13 +379,84 @@ void Merge_Sort(int* nums,int numsSize) {
 <br>
 图解：
 
-![sort015]()
+![sort015](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/sort015.jpg)
 
 
 算法
-```
+```c
+//基数排序
+void Bucket_Sort(int* nums, int numsSize)
+{
+    //获取数组中的最大数
+    int maxNum = findMaxNum(nums, numsSize);
+
+    //获取最大数的位数
+    int loopTimes = getLoopTimes(maxNum);
+    int i;
+
+    //对每一位进行桶分配
+    for (i = 1; i <= loopTimes; i++) {
+        sort2(nums, numsSize, i);
+    }
+}
 
 
+//获取数字的位数
+int getLoopTimes(int num) {
+    int count = 1;
+    int temp = num / 10;
+
+    while (temp != 0) {
+        count++;
+        temp = temp / 10;
+    }
+    return count;
+}
+
+//查询数组的最大数
+int findMaxNum(int* nums, int numsSize) {
+    int max = INT_MIN;
+
+    for(int i = 0; i < numsSize; i++) {
+        max=(*(nums+i) > max)? *(nums+i):max;
+    }
+    return max;
+}
+
+//将数字分配到各自的桶中，然后按照桶的顺序输出排序结果
+void sort2(int* nums, int numsSize, int loop) {
+    //建立一组桶此处的20是预设的根据实际数情况修改
+    int buckets[10][20] = {};
+    //求桶的index的除数
+    //如798个位桶index=(798/1)%10=8
+    //十位桶index=(798/10)%10=9
+    //百位桶index=(798/100)%10=7
+    //tempNum为上式中的1、10、100
+    int tempNum = (int)pow(10, loop - 1);
+    int i, j;
+
+    for (i = 0; i < numsSize; i++) {
+        int row_index = (*(p + i) / tempNum) % 10;
+        for (j = 0; j < 20; j++) {
+            if (buckets[row_index][j] == NULL) {
+                buckets[row_index][j] = *(nums+ i);
+                break;
+            }
+        }
+    }
+
+    //将桶中的数，倒回到原有数组中
+    int k = 0;
+    for (i = 0; i < 10; i++) {
+        for(j = 0; j < 20; j++) {
+            if(buckets[i][j] != NULL) {
+                *(nums + k) = buckets[i][j];
+                buckets[i][j] = NULL;
+                k++;
+            }
+        }
+    }
+}
 ```
 
 <br>
