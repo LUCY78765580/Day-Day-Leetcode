@@ -300,7 +300,6 @@ void Heap_Sort(int* nums,int numsSize) {
 
 算法：
 ```c
-#
 //定义归并函数
 //L、LeftEnd、R、RightEnd分别代表左边起点、左边终点、右边起点、右边终点
 //A,TmpA分别为数组、临时数组，len为数组长度
