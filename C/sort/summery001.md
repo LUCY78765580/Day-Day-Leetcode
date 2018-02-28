@@ -48,7 +48,6 @@ void Bubble_Sort(int* nums,int numsSize) {
         if (flag==0) break;
     }
 }
-
 ```
 <br>
 <br>
@@ -150,7 +149,7 @@ void Insert_Sort(int* nums,int numsSize) {
 算法：
 
 ```c
-#取增量序列为Dk = D(k+1)/2
+//取增量序列为Dk = D(k+1)/2
 void Shell_Sort(int* nums,int numsSize) {
     int p,i;
     int temp;
@@ -184,8 +183,8 @@ void Shell_Sort(int* nums,int numsSize) {
 算法：
 
 ```c
-#找到最小的数，所在的位置
-#i从0开始到最后遍历，如果当前位置i不是最小值所在位置，则用temp进行交换
+//找到最小的数，所在的位置
+//i从0开始到最后遍历，如果当前位置i不是最小值所在位置，则用temp进行交换
 int findMin(int* nums,int numsSize,int x) {
     int j,k;
 
@@ -245,8 +244,8 @@ void Select_Sort(int* nums,int numsSize) {
 算法：
 
 ```c
-#建堆，并由上到下过滤，调整为最大堆
-#最大堆过滤函数和DeleteMax类似，不同的是，PercDown不从0开始而从x=i开始，且只过滤不返回值
+//建堆，并由上到下过滤，调整为最大堆
+//最大堆过滤函数和DeleteMax类似，不同的是，PercDown不从0开始而从x=i开始，且只过滤不返回值
 void PercDown(int* H,int x,int len) {
     int parent,child;
 
@@ -264,14 +263,14 @@ void PercDown(int* H,int x,int len) {
     H[parent]=temp;
 }
 
-#建堆
+//建堆
 void BuildHeap(int* nums,int numsSize) {
     for (int i=(numsSize-1)/2;i>=0;i--) {
         PercDown(nums,i,numsSize);
     }
 }
 
-#堆排序
+//堆排序
 void Heap_Sort(int* nums,int numsSize) {
     //建立最大堆
     BuildHeap(nums,numsSize);
@@ -282,6 +281,7 @@ void Heap_Sort(int* nums,int numsSize) {
         int temp=nums[0];nums[0]=nums[i];nums[i]=temp;
         PercDown(nums,0,i);
     }
+}
 ```
 <br>
 <br>
@@ -300,9 +300,10 @@ void Heap_Sort(int* nums,int numsSize) {
 
 算法：
 ```c
-#定义归并函数
-#L、LeftEnd、R、RightEnd分别代表左边起点、左边终点、右边起点、右边终点
-#A,TmpA分别为数组、临时数组，len为数组长度
+#
+//定义归并函数
+//L、LeftEnd、R、RightEnd分别代表左边起点、左边终点、右边起点、右边终点
+//A,TmpA分别为数组、临时数组，len为数组长度
 void Merge(int* A,int* TmpA,int L,int R,int RightEnd) {
     int LeftEnd=R-1;
     int Tmp=L;
@@ -316,13 +317,13 @@ void Merge(int* A,int* TmpA,int L,int R,int RightEnd) {
     while (L<=LeftEnd) TmpA[Tmp++]=A[L++];
     while (R<=RightEnd) TmpA[Tmp++]=A[R++];
 
-    #最后从结尾，将临时数组TmpA中数据倒入A中
+    //最后从结尾，将临时数组TmpA中数据倒入A中
     for (int i=0;i<len;i++,RightEnd--) {
         A[RightEnd]=TmpA[RightEnd];
     }
 }
 
-#定义Msort函数（分而治之+递归）
+//定义Msort函数（分而治之+递归）
 void MSort(int* A,int* TmpA,int left,int right) {
     if (left<right) {
         int mid=(left+right)/2;
@@ -334,7 +335,7 @@ void MSort(int* A,int* TmpA,int left,int right) {
     }
 }
 
-#统一接口
+//统一接口
 void Merge_Sort(int* nums,int numsSize) {
     int* numsA=(int*)malloc(numsSize*sizeof(int));
 
@@ -384,8 +385,6 @@ void Merge_Sort(int* nums,int numsSize) {
 
 算法
 ```c
-<<<<<<< HEAD
-//基数排序
 void Bucket_Sort(int* nums, int numsSize)
 {
     //获取数组中的最大数
@@ -413,8 +412,6 @@ int getLoopTimes(int num) {
     }
     return count;
 }
-=======
->>>>>>> origin/master
 
 //查询数组的最大数
 int findMaxNum(int* nums, int numsSize) {
@@ -439,7 +436,7 @@ void sort2(int* nums, int numsSize, int loop) {
     int i, j;
 
     for (i = 0; i < numsSize; i++) {
-        int row_index = (*(p + i) / tempNum) % 10;
+        int row_index = (*(nums + i) / tempNum) % 10;
         for (j = 0; j < 20; j++) {
             if (buckets[row_index][j] == NULL) {
                 buckets[row_index][j] = *(nums+ i);
