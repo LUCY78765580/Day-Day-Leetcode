@@ -16,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/445_Add Two Numbers-2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="93">
-                <caret line="3" column="4" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="4" />
+              <first_editor relative-caret-position="124">
+                <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -27,12 +27,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="138_Copy List with Random Pointer.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/138_Copy List with Random Pointer.md">
+      <file leaf-file-name="summary-LinkedList.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/summary-LinkedList.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="142">
-                <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+              <first_editor relative-caret-position="124">
+                <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="summery-LinkedList-2.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/summery-LinkedList-2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1953">
+                <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -68,6 +83,7 @@
         <option value="$PROJECT_DIR$/234_Palindrome-Linked-List.md" />
         <option value="$PROJECT_DIR$/143_Reorder-List.md" />
         <option value="$PROJECT_DIR$/138_Copy List with Random Pointer.md" />
+        <option value="$PROJECT_DIR$/summery-LinkedList-2.md" />
       </list>
     </option>
   </component>
@@ -445,19 +461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/summary-LinkedList.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="173">
-            <caret line="114" column="80" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="96" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/086_Partition-List.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -523,11 +526,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/445_Add Two Numbers-2.md">
+    <entry file="file://$PROJECT_DIR$/138_Copy List with Random Pointer.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="93">
-            <caret line="3" column="4" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="4" />
+          <first_editor relative-caret-position="155">
+            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
@@ -536,11 +539,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/138_Copy List with Random Pointer.md">
+    <entry file="file://$PROJECT_DIR$/445_Add Two Numbers-2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="142">
-            <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <first_editor relative-caret-position="124">
+            <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summary-LinkedList.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="124">
+            <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summery-LinkedList-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1953">
+            <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
