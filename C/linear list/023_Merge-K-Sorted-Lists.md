@@ -148,5 +148,4 @@ struct ListNode *mergeKLists(struct ListNode** lists, int listsize) {
 	travel->next = NULL;
 	return head->next;
 }
-*/
 ```
