@@ -121,7 +121,7 @@ struct ListNode* Insert(struct ListNode* p,int i,ElementType x) {
 2)指针s指向待删除节点 s=q->next;
 3)修改指针删除s节点   q->next=s->next;
 4）释放s节点   free(s);
-/*
+*/
 
 struct ListNode* Delete(struct ListNode* p,int i) {
     struct ListNode* q,s;
@@ -145,16 +145,6 @@ struct ListNode* Delete(struct ListNode* p,int i) {
 
         return p;
     }
-
 }
 ```
-
-
-
-
-
-
-
-
-
 
