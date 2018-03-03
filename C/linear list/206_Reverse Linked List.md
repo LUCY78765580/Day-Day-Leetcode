@@ -13,29 +13,19 @@
  * };
  */
 
-//法一：三个指针
+//法一:巧用虚拟表头
 struct ListNode* reverseList(struct ListNode* head) {
-    struct ListNode* p;
-    struct ListNode* q;
-    struct ListNode* r;
+    struct ListNode* tail = NULL;
 
-    if (head==NULL||head->next==NULL)
-        return head;
-
-    p=head;
-    q=head->next;
-    head->next=NULL;
-
-    while(q){
-        r=q->next;
-        q->next=p;
-        p=q;
-        q=r;
+    while (head){
+        struct ListNode* temp = head;
+        head = head->next;
+        temp->next = tail;
+        tail = temp;
     }
-    head=p;
-    return head;
-}
 
+    return tail;
+}
 
 //法二：使用递归
 /*可以先假设B->C->D已经反转好，已经成为了D->C->B,那么接下来要做的事情就是将D->C->B看成一个整体，让这个整体的next指向A，所以问题转化了反转B->C->D。
