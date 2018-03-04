@@ -16,7 +16,6 @@ struct ListNode {
 };
 ```
 <br>
-<br>
 
 ### 1、建立(空链表)
 ```c
@@ -26,7 +25,6 @@ struct ListNode* CreateEmpty() {
     p->next=NUll;
 }
 ```
-<br>
 <br>
 
 ### 2、求表长
@@ -41,7 +39,6 @@ int Length(struct ListNode* p) {
     return j;
 }
 ```
-<br>
 <br>
 
 ### 3、查找
@@ -68,7 +65,6 @@ struct ListNode* FindKth(int k,struct ListNode* p) {
     else return NULL;
 }
 ```
-<br>
 <br>
 
 ### 4、插入（在第i-1节点后面插入）
@@ -106,7 +102,6 @@ struct ListNode* Insert(struct ListNode* p,int i,ElementType x) {
     }
 }
 ```
-<br>
 <br>
 
 ### 5、删除（删除链表第i个节点）

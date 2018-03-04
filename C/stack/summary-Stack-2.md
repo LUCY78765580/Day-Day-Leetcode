@@ -9,6 +9,9 @@
 ![](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/stack004.jpg)
 
 <br>
+
+## 形式一
+构造ListNode和StackNode
 <br>
 
 ### 0、结构初始化
@@ -23,18 +26,16 @@ struct StackNode {
 };
 ```
 <br>
-<br>
 
 ### 1、建立空栈
 ```c
-struct CreateStack() {
+struct StackNode* CreateStack() {
     struct StackNode* s=malloc(sizeof(struct StackNode));
     s->size=0;
     s->top=NULL;
     return s;
 }
 ```
-<br>
 <br>
 
 ### 2、push操作
@@ -54,41 +55,104 @@ void push(struct StackNode* s,ElementType x) {
 }
 ```
 <br>
-<br>
 
 ### 3、pop操作
 ```c
-void pop(struct StackNode* s) {
-    struct ListNode* temp=s->top;
-    s->top=temp->next;
-    free(temp);
+ElementType pop(struct StackNode* s) {
+    struct ListNode* temp;
+    ElementType tmp;
 
-    s->size--;
+    if (s->size==0) return NULL;
+    else {
+        temp=s->top;
+        s->top=temp->next;
+        tmp=s->top->val;
+        free(temp);
+
+        s->size--;
+        return tmp;
+    }
 }
 ```
-<br>
 <br>
 
 ### 4、取栈顶元素
 ```c
-ElementType top(struct StackNode* s) {
+ElementType peek(struct StackNode* s) {
     if (s&&s->top) {
         return s->top->val;
     }
-    return 0;
+    return NULL;
 }
 ```
+<br>
 <br>
 <br>
 
-### 5、destroy操作
+## 形式二
+仅仅构造StackNode(StackNode此时即为一个链表)
+<br>
+
+### 0、结构初始化
 ```c
-void destroyStack(struct StackNode* s) {
-    while (s->size) {
-        pop(s);
-    }
-    free(s);
+struct StackNode {
+    ElementType val;
+    struct ListNode* next;
+};
+```
+<br>
+
+### 1、建立空栈
+```c
+struct StackNode* CreateStack() {
+    struct StackNode* s=malloc(sizeof(struct StackNode));
+    s->next=NULL
+
+    return s;
+```
+<br>
+
+### 2、push操作
+```c
+void push(struct StackNode* s,ElementType x) {
+    struct StackNode* temp=malloc(sizeof(struct StackNode));
+    temp->val=x;
+    temp->next=s->next;
+    s->next=temp;
 }
 ```
+<br>
+
+### 3、pop操作
+```c
+ElementType pop(struct StackNode* s) {
+    struct StackNode* temp;
+    ElementType tmp;
+
+    if (s->next!=NULL) {
+        temp=s->next;
+        s->next=temp->next;
+        tmp=temp->val;
+
+        free(temp);
+        return tmp;
+    }
+    else
+        return NULL;
+}
+```
+<br>
+
+### 4、取栈顶元素
+```c
+ElementType peek(struct StackNode* s) {
+    if (s->next!=NULL) {
+        return s->next->val;
+    }
+    else
+        return NULL;
+}
+```
+
 
 

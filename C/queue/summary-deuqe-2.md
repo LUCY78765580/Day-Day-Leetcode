@@ -8,8 +8,6 @@
 
 ![](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/deque002.jpg)
 
-<br>
-<br>
 
 ### 0、结构初始化
 ```c
@@ -24,7 +22,6 @@ struct QueueNode {
 };
 ```
 <br>
-<br>
 
 ### 1、建立空队列 createQueue
 ```c
@@ -36,7 +33,6 @@ struct QueueNode* createQueue() {
     return q;
 }
 ```
-<br>
 <br>
 
 ### 2、入队操作addQueue
@@ -57,7 +53,6 @@ void addQueue(struct QueueNode* q,ElementType x) {
     q->size++;
 }
 ```
-<br>
 <br>
 
 ### 3、出队操作deleteQueue

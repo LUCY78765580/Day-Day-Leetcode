@@ -19,7 +19,6 @@
 
 ![](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/deque001.jpg)
 <br>
-<br>
 
 ### 0、结构初始化
 ```c
@@ -31,7 +30,6 @@ struct QueueNode {
     int rear;
 };
 ```
-<br>
 <br>
 
 ### 1、建立空队列 createQueue
@@ -46,7 +44,6 @@ struct QueueNode* createQueue() {
 }
 ```
 <br>
-<br>
 
 ### 2、判断队列是否充满 isFull
 ```c
@@ -55,7 +52,6 @@ bool isFull(struct QueueNode* q) {
 }
 ```
 <br>
-<br>
 
 ### 3、判断队列是否为空 isEmpty
 ```c
@@ -63,7 +59,6 @@ bool isEmpty(struct QueueNode* q) {
     return ( q->rear == q->front );
 }
 ```
-<br>
 <br>
 
 ### 4、入队操作addQueue
@@ -76,7 +71,6 @@ void addQueue(struct QueueNode* q,ElementType x) {
     }
 }
 ```
-<br>
 <br>
 
 ### 5、出队操作deleteQueue

@@ -2,7 +2,6 @@
 
 实现方式分两种:**顺序存储实现**（ArrayList）和**链式存储实现**（LinkList）
 <br>
-<br>
 
 ## 顺序表
 
@@ -18,7 +17,6 @@ struct ListNode {
 };
 ```
 <br>
-<br>
 
 ### 1、建立（空顺序表）
 ```c
@@ -30,7 +28,6 @@ struct ListNode* MakeEmpty() {
     return p;
 }
 ```
-<br>
 <br>
 
 ### 2、查找
@@ -46,7 +43,6 @@ int Find(ElementType x,struct ListNode* P) {
         return i;
 }
 ```
-<br>
 <br>
 
 ### 3、插入
@@ -73,7 +69,6 @@ void Insert(ElementType x,int i,struct ListNode* P) {
     p->Last++;
 }
 ```
-<br>
 <br>
 
 ### 4、删除
