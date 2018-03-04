@@ -21,7 +21,6 @@
 struct StackNode {
     int size;
     struct ListNode* top;
-
 };
 
 struct StackNode* createStack() {

@@ -16,7 +16,6 @@
 
 //非常简单的题目，应用到链表的删除操作
 //方法一：一般方法（分别处理val在首位和在中间的情况）
-/*
 struct ListNode* removeElements(struct ListNode* head, int val) {
     if (head==NULL) return NULL;
     struct ListNode* p;
@@ -42,8 +41,6 @@ struct ListNode* removeElements(struct ListNode* head, int val) {
 
     return head;
 }
-*/
-
 
 // 方法二：使用递归
 struct ListNode* removeElements(struct ListNode* head, int val) {
