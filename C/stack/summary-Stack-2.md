@@ -109,6 +109,7 @@ struct StackNode* CreateStack() {
     s->next=NULL
 
     return s;
+}
 ```
 <br>
 

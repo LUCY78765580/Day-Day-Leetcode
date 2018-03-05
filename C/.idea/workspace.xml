@@ -16,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/stack/summary-Stack.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="63">
+              <first_editor relative-caret-position="1365">
                 <caret line="60" column="8" lean-forward="false" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
                 <folding />
               </first_editor>
@@ -31,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/stack/summary-Stack-2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="204">
-                <caret line="153" column="1" lean-forward="false" selection-start-line="153" selection-start-column="1" selection-end-line="153" selection-end-column="1" />
+              <first_editor relative-caret-position="248">
+                <caret line="152" column="5" lean-forward="true" selection-start-line="148" selection-start-column="0" selection-end-line="154" selection-end-column="1" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -42,12 +42,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="summary-Stack-3.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="summary-Stack-3.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stack/summary-Stack-3.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="310">
-                <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <first_editor relative-caret-position="341">
+                <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -57,12 +57,72 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="150_Evaluate Reverse Polish Notation.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stack/150_Evaluate Reverse Polish Notation.md">
+      <file leaf-file-name="094_Binary Tree Inorder Traversal.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stack/094_Binary Tree Inorder Traversal.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="94">
-                <caret line="210" column="7" lean-forward="false" selection-start-line="210" selection-start-column="7" selection-end-line="210" selection-end-column="7" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="32" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="37" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="144_Binary Tree Preorder Traversal.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stack/144_Binary Tree Preorder Traversal.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="38" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="summary-deque.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/queue/summary-deque.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="103_Binary Tree Zigzag Level Order Travelsal.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/queue/103_Binary Tree Zigzag Level Order Travelsal.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="359">
+                <caret line="74" column="27" lean-forward="true" selection-start-line="74" selection-start-column="27" selection-end-line="74" selection-end-column="27" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="145_Binary Tree Postorder Traversal.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stack/145_Binary Tree Postorder Traversal.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="36" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="39" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -83,11 +143,20 @@
         <option value="$PROJECT_DIR$/deque/summary-deque.md" />
         <option value="$PROJECT_DIR$/linear list/summary-LinkedList.md" />
         <option value="$PROJECT_DIR$/linear list/summary-ArrayList.md" />
-        <option value="$PROJECT_DIR$/stack/summary-Stack-3.md" />
         <option value="$PROJECT_DIR$/linear list/020_Valid Parentheses.md" />
-        <option value="$PROJECT_DIR$/stack/summary-Stack-2.md" />
         <option value="$PROJECT_DIR$/stack/summary-Stack.md" />
         <option value="$PROJECT_DIR$/stack/150_Evaluate Reverse Polish Notation.md" />
+        <option value="$PROJECT_DIR$/linear list/234_Palindrome Linked List.md" />
+        <option value="$PROJECT_DIR$/stack/summary-Stack-2.md" />
+        <option value="$PROJECT_DIR$/linear list/071_Simplify Path.md" />
+        <option value="$PROJECT_DIR$/stack/445_Add Two Numbers-2.md" />
+        <option value="$PROJECT_DIR$/stack/456_132 Pattern.md" />
+        <option value="$PROJECT_DIR$/stack/227_Mock Hanoi Tower by Stacks (Lintcode).md" />
+        <option value="$PROJECT_DIR$/stack/144_Binary Tree Preorder Traversal.md" />
+        <option value="$PROJECT_DIR$/stack/094_Binary Tree Inorder Traversal.md" />
+        <option value="$PROJECT_DIR$/stack/145_Binary Tree Postorder Traversal.md" />
+        <option value="$PROJECT_DIR$/queue/103_Binary Tree Zigzag Level Order Travelsal.md" />
+        <option value="$PROJECT_DIR$/stack/summary-Stack-3.md" />
       </list>
     </option>
   </component>
@@ -363,19 +432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/linear list/summary-LinkedList.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="104" column="4" lean-forward="false" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="4" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/deque/summary-deque.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -415,19 +471,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/summary-Stack-3.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="310">
-            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linear list/020_Valid Parentheses.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -441,10 +484,88 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/stack/020_Valid Parentheses.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="279">
+            <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linear list/234_Palindrome Linked List.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="173">
+            <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linear list/071_Simplify Path.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1736">
+            <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/150_Evaluate Reverse Polish Notation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="93">
+            <caret line="3" column="4" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/456_132 Pattern.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3069">
+            <caret line="99" column="1" lean-forward="false" selection-start-line="99" selection-start-column="1" selection-end-line="99" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linear list/summary-LinkedList.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="359">
+            <caret line="109" column="81" lean-forward="false" selection-start-line="109" selection-start-column="4" selection-end-line="109" selection-end-column="95" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/stack/summary-Stack.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="63">
+          <first_editor relative-caret-position="1365">
             <caret line="60" column="8" lean-forward="false" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
             <folding />
           </first_editor>
@@ -457,8 +578,8 @@
     <entry file="file://$PROJECT_DIR$/stack/summary-Stack-2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="153" column="1" lean-forward="false" selection-start-line="153" selection-start-column="1" selection-end-line="153" selection-end-column="1" />
+          <first_editor relative-caret-position="248">
+            <caret line="152" column="5" lean-forward="true" selection-start-line="148" selection-start-column="0" selection-end-line="154" selection-end-column="1" />
             <folding />
           </first_editor>
           <second_editor>
@@ -467,11 +588,102 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/150_Evaluate Reverse Polish Notation.md">
+    <entry file="file://$PROJECT_DIR$/stack/227_Mock Hanoi Tower by Stacks (Lintcode).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="94">
-            <caret line="210" column="7" lean-forward="false" selection-start-line="210" selection-start-column="7" selection-end-line="210" selection-end-column="7" />
+          <first_editor relative-caret-position="124">
+            <caret line="73" column="1" lean-forward="true" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/445_Add Two Numbers-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="93">
+            <caret line="3" column="4" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queue/summary-deque.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queue/103_Binary Tree Zigzag Level Order Travelsal.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="359">
+            <caret line="74" column="27" lean-forward="true" selection-start-line="74" selection-start-column="27" selection-end-line="74" selection-end-column="27" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/145_Binary Tree Postorder Traversal.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="36" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="39" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/144_Binary Tree Preorder Traversal.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="38" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/094_Binary Tree Inorder Traversal.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="32" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="37" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/summary-Stack-3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="341">
+            <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
