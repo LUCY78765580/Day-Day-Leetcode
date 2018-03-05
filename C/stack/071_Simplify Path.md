@@ -1,4 +1,4 @@
-## 071  Simplify Path
+## 071 Simplify Path
 [题目地址](https://leetcode.com/problems/simplify-path/description/)
 <br>
 <br>
