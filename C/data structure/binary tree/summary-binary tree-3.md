@@ -7,7 +7,6 @@
 - 二叉树的最大深度 [104 Maximum Depth of Binary Tree]()
 - 二叉树的最小深度 [111 Minimum Depth of Binary Tree]()
 <br>
-<br>
 
 ### 二叉树的节点
 - 最近公共祖先 [236 Lowest Common Ancestor of a Binary Tree]()
@@ -18,7 +17,6 @@
 - 判断一个节点是否在一棵二叉树中 []()
 - 从二叉树中查找节点 []()
 <br>
-<br>
 
 ### 二叉树的路径
 - 二叉树路径 [257 Binary Tree Paths]()
@@ -26,8 +24,8 @@
    - [112 Path Sum]()
    - [113 Path Sum II]()
    - [437 Path Sum III]()
-- 最大最大路径和 [124 Binary Tree Maximum Path Sum]()
-<br>
+- 最大路径和 [124 Binary Tree Maximum Path Sum]()
+- 根到叶节点所有路径整数之和 [129 Sum Root to Leaf Numbers]()
 <br>
 
 ### 树的镜像/对称/反转/转化
@@ -37,15 +35,11 @@
 - 打印二叉树 [655 Print Binary Tree]()
 - 树的镜像 [101 Symmetric Tree]()
 - 同一棵树 [100 Same Tree]()
-
-<br>
 <br>
 
 ### 树的验证
 - 验证二叉查找树(BST) [98 Validate Binary Search Tree]()
 - 验证平衡二叉树 (AVL) [110  Balanced Binary Tree]()
-- 验证子树 []()
-<br>
 <br>
 
 ### 二叉树遍历问题
@@ -56,6 +50,5 @@
 - 锯齿层序遍历 []()
 - 中序遍历和后序遍历构造二叉树 []()
 - 前序遍历和中序遍历构造二叉树 []()
-<br>
 <br>
 

@@ -12,57 +12,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="summary-binary tree-3.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data structure/binary tree/summary-binary tree-3.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="744">
-                <caret line="57" column="21" lean-forward="true" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="110_Balanced Bianry Tree.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data structure/binary tree/110_Balanced Bianry Tree.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="28" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="108_Convert Sorted Array to Binary Tree.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data structure/binary tree/108_Convert Sorted Array to Binary Tree.md">
+      <file leaf-file-name="144_Binary Tree Preorder Traversal.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data structure/binary tree/144_Binary Tree Preorder Traversal.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="93">
-                <caret line="3" column="4" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="4" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="98_Validate Binary Search Tree.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data structure/binary tree/98_Validate Binary Search Tree.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="435">
-                <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+                <caret line="135" column="20" lean-forward="true" selection-start-line="135" selection-start-column="20" selection-end-line="135" selection-end-column="20" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -117,6 +72,10 @@
         <option value="$PROJECT_DIR$/data structure/binary tree/110_Balanced Bianry Tree.md" />
         <option value="$PROJECT_DIR$/data structure/binary tree/98_Validate Binary Search Tree.md" />
         <option value="$PROJECT_DIR$/data structure/binary tree/summary-binary tree-3.md" />
+        <option value="$PROJECT_DIR$/data structure/binary tree/129_Sum Root to Leaf Numbers.md" />
+        <option value="$PROJECT_DIR$/data structure/binary tree/144_Binary Tree Preorder Traversal.md" />
+        <option value="$PROJECT_DIR$/data structure/binary tree/094_Binary Tree Inorder Traversal.md" />
+        <option value="$PROJECT_DIR$/data structure/binary tree/145_Binary Tree Postorder Traversal.md" />
       </list>
     </option>
   </component>
@@ -287,7 +246,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="-2" width="1378" height="744" extended-state="0" />
+    <frame x="-2" y="-2" width="1378" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.034901366" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -318,10 +277,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/linear list/445_Add Two Numbers-2.md" />
-    <entry file="file://$PROJECT_DIR$/linear list/summery-LinkedList-2.md" />
-    <entry file="file://$PROJECT_DIR$/sort/summary-8 kinds of sort.md" />
-    <entry file="file://$PROJECT_DIR$/linear list/summary-ArrayList.md" />
     <entry file="file://$PROJECT_DIR$/deque/summary-deque.md" />
     <entry file="file://$PROJECT_DIR$/deque/summary-deuqe-2.md" />
     <entry file="file://$PROJECT_DIR$/linear list/142_Linked List Cycle-2.md" />
@@ -552,19 +507,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data structure/binary tree/summary-binary tree-2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="155">
-            <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="95" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data structure/stack/144_Binary Tree Preorder Traversal.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -583,19 +525,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="279">
             <caret line="90" column="74" lean-forward="false" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="79" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data structure/binary tree/114_Flatten Binary Tree to Linked List.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="93">
-            <caret line="3" column="4" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor>
@@ -646,8 +575,8 @@
     <entry file="file://$PROJECT_DIR$/data structure/binary tree/110_Balanced Bianry Tree.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="28" />
+          <first_editor relative-caret-position="62">
+            <caret line="2" column="4" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor>
@@ -659,8 +588,86 @@
     <entry file="file://$PROJECT_DIR$/data structure/binary tree/summary-binary tree-3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="744">
-            <caret line="57" column="21" lean-forward="true" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+          <first_editor relative-caret-position="558">
+            <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data structure/binary tree/114_Flatten Binary Tree to Linked List.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="186">
+            <caret line="54" column="12" lean-forward="false" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="79" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data structure/binary tree/summary-binary tree-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="155">
+            <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="95" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data structure/binary tree/129_Sum Root to Leaf Numbers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="93">
+            <caret line="3" column="4" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data structure/binary tree/094_Binary Tree Inorder Traversal.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="93">
+            <caret line="3" column="4" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data structure/binary tree/145_Binary Tree Postorder Traversal.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-106">
+            <caret line="183" column="26" lean-forward="false" selection-start-line="183" selection-start-column="26" selection-end-line="183" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data structure/binary tree/144_Binary Tree Preorder Traversal.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="93">
+            <caret line="135" column="20" lean-forward="true" selection-start-line="135" selection-start-column="20" selection-end-line="135" selection-end-column="20" />
             <folding />
           </first_editor>
           <second_editor>
