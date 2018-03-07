@@ -19,6 +19,16 @@
  * Note: Both returned array and *columnSizes array must be malloced, assume caller calls free().
  */
 
+
+//二叉树的锯齿层序遍历
+
+//基本方法还是与前面层序遍历类似
+/*主要技巧：
+增加一个标记flag,巧用 按位异或，
+实现flag=0和flag=1之间的转换，
+从而控制二叉树遍历（数据存储）方向
+*/
+
 int maxDepth(struct TreeNode* root) {
     if (root==NULL) return 0;
     else {
@@ -30,6 +40,7 @@ int maxDepth(struct TreeNode* root) {
     }
 }
 
+
 int** zigzagLevelOrder(struct TreeNode* root, int** columnSizes, int* returnSize) {
     if (root==NULL) return NULL;
     int depth=*returnSize=maxDepth(root);
@@ -38,17 +49,17 @@ int** zigzagLevelOrder(struct TreeNode* root, int** columnSizes, int* returnSize
     *columnSizes=(int*)calloc(depth,sizeof(int));
 
     int front=0,rear=0;
-    struct TreeNode* queue[2000];
+    struct TreeNode* queue[5000];
     queue[rear++]=root;
 
     int cur_size=1;int next_size=0;int size=0;
     int flag=0;
 
     while (front<rear) {
-        res[size]=(int*)malloc(2000*sizeof(int));
+        res[size]=(int*)malloc(1000*sizeof(int));
 
-        //最最开始flag等于0，令j为0，left->right  (j++ 从res[size]最左边记录)
-        //下一层flag由0变为1，令j为cur_size-1，right->left  (j-- 从res[size]最右边记录)
+        //最最开始flag等于0,令j为0,j++         (flag=0,j=0          从res[size]最左边记录)
+        //下一层flag变为1,令j为cur_size-1,j--  (flag=1,j=cur_size-1 从res[size]最右边记录)
         //因为cur_size已经由上一步得到，即为小数组的长度
         //由此类推
         int j=(flag)?cur_size-1:0;
@@ -74,10 +85,9 @@ int** zigzagLevelOrder(struct TreeNode* root, int** columnSizes, int* returnSize
         (*columnSizes)[size++]=cur_size;
         cur_size=next_size;
         if (cur_size==0) break;
-
         next_size=0;
-        flag ^=1;
 
+        flag ^=1;
         //按位异或，c=a^b  如果ab相同结果c为0，ab不同结果c为1
         //flag^=1相当于 flag=flag^1
         //如果此前的flag是1，令flag为0；反之如果此前的flag为0，令flag为1

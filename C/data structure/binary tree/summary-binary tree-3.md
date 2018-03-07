@@ -12,10 +12,6 @@
 - 最近公共祖先 [236 Lowest Common Ancestor of a Binary Tree]()
 - 最远两个节点距离 [662 Maximum Width of Binary Tree]()
 - 节点总个数 [222 Count Complete Tree Nodes]()
-- 第K层节点个数 []()
-- 连接二叉树同一层上的节点 []()
-- 判断一个节点是否在一棵二叉树中 []()
-- 从二叉树中查找节点 []()
 <br>
 
 ### 二叉树的路径
@@ -43,12 +39,20 @@
 <br>
 
 ### 二叉树遍历问题
-- 中序遍历 []()
-- 先序遍历 []()
-- 后序遍历 []()
-- 层序遍历 []()
-- 锯齿层序遍历 []()
-- 中序遍历和后序遍历构造二叉树 []()
-- 前序遍历和中序遍历构造二叉树 []()
+- 中序遍历 [094  Binary Tree Inorder Traversal]()
+- 先序遍历 [144  Binary Tree Preorder Traversal]()
+- 后序遍历 [145  Binary Tree Postorder Traversal]()
+- 层序遍历-I [102  Binary Tree Level Order Traversal]()
+- 层序遍历-II [107  Binary Tree Level Order Traversal II]()
+- 锯齿层序遍历 [103  Binary Tree Zigzag Level Order Traversal]()
+- 中序遍历和后序遍历构造二叉树 [105 Construct Binary Tree from Preorder and Inorder Traversal]()
+- 前序遍历和中序遍历构造二叉树 [106 Construct Binary Tree from Inorder and Postorder Traversal]()
+<br>
+<br>
 <br>
 
+### 没有考不到，只有想不到。。。
+<br>
+<br>
+
+![](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/binary-tree011.jpg)
