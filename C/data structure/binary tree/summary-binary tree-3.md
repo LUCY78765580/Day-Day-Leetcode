@@ -43,9 +43,8 @@
 
 ### 树的验证
 - 验证二叉查找树(BST) [98 Validate Binary Search Tree]()
-- 验证平衡二叉树 (AVL) []()
+- 验证平衡二叉树 (AVL) [110  Balanced Binary Tree]()
 - 验证子树 []()
-- 验证满二叉树 []()
 <br>
 <br>
 
@@ -59,6 +58,4 @@
 - 前序遍历和中序遍历构造二叉树 []()
 <br>
 <br>
-
-博客参考：http://blog.csdn.net/flyinghearts/article/details/7303731
 
