@@ -28,6 +28,7 @@
 - 翻转二叉树 [226 Invert Binary Tree]()
 - 二叉树转为有序双链表 [114 Flatten Binary Tree to Linked List]()
 - 排序数组转为二叉搜索树 [108 Convert Sorted Array to Binary Search Tree]()
+- 最大二叉树 [654 Maximum Binary Tree]()
 - 打印二叉树 [655 Print Binary Tree]()
 - 树的镜像 [101 Symmetric Tree]()
 - 同一棵树 [100 Same Tree]()
