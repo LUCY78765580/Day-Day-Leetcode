@@ -28,15 +28,21 @@
 2、两个值都在右边，则LCA在右边
 3、一个在左一个在右，则说明LCA就是当前的root节点。
 */
-
+/*
+总：if (p->val > q->val) return lowestCommonAncestor(root,q,p);
+1、if (root==NULL || root->val >= p->val || root->val <= q->val) return root;
+2、if (root->val > q->val) return lowestCommonAncestor(root->left,p,q);
+3、if (root->val < p->val) return lowestCommonAncestor(root->right,p,q);
+*/
 struct TreeNode* lowestCommonAncestor(struct TreeNode* root, struct TreeNode* p, struct TreeNode* q) {
     if (p->val > q->val) return lowestCommonAncestor(root,q,p);
-    if (root==NULL || root->val >= p->val || root->val <= q->val) return root;
-
-    if (root->val > q->val) return lowestCommonAncestor(root->left,p,q);
-    if (root->val < p->val) return lowestCommonAncestor(root->right,p,q);
+    if (root->val > q->val)
+        return lowestCommonAncestor(root->left,p,q);
+    else if (root->val < p->val)
+        return lowestCommonAncestor(root->right,p,q);
+    else
+        return root;
 }
-
 
 
 //方法二：对于普通二叉树，可以用dfs查找p,q的路径，找到他们第一个分叉口，则为LCA
