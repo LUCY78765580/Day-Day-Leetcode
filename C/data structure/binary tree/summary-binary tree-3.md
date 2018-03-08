@@ -3,15 +3,15 @@
 
 以下是比较常见的题型
 
-### 二叉树的深度（高度）
+### 二叉树的深度/宽度
 - 二叉树的最大深度 [104 Maximum Depth of Binary Tree]()
 - 二叉树的最小深度 [111 Minimum Depth of Binary Tree]()
+- 二叉树的最大宽度 [662 Maximum Width of Binary Tree]()
 <br>
 
 ### 二叉树的节点
 - 最近公共祖先 [236 Lowest Common Ancestor of a Binary Tree]()
-- 最远两个节点距离 [662 Maximum Width of Binary Tree]()
-- 节点总个数 [222 Count Complete Tree Nodes]()
+- 完全二叉树节点总个数 [222 Count Complete Tree Nodes]()
 <br>
 
 ### 二叉树的路径
@@ -54,5 +54,3 @@
 ### 没有考不到，只有想不到。。。
 <br>
 <br>
-
-![](https://github.com/LUCY78765580/Day-Day-Leetcode/raw/master/screenshorts/binary-tree011.jpg)
