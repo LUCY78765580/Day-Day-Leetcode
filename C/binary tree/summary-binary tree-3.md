@@ -34,7 +34,7 @@
 - 同一棵树 [100 Same Tree](https://github.com/LUCY78765580/Day-Day-Leetcode/blob/master/C/binary%20tree/100_Same%20Tree.md)
 <br>
 
-###5、 树的验证
+### 5、 树的验证
 - 验证二叉查找树(BST) [98 Validate Binary Search Tree](https://github.com/LUCY78765580/Day-Day-Leetcode/blob/master/C/binary%20tree/098_Validate%20Binary%20Search%20Tree.md)
 - 验证平衡二叉树 (AVL) [110  Balanced Binary Tree](https://github.com/LUCY78765580/Day-Day-Leetcode/blob/master/C/binary%20tree/110_Balanced%20Bianry%20Tree.md)
 <br>
