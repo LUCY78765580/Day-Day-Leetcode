@@ -79,15 +79,20 @@ void Bubble_Sort(int* nums,int numsSize) {
 void Quick_Sort(int* nums,int left,int right) {
     if (left>=right) return ;
 
-    int key=nums[left];
     int i=left;
     int j=right;
+    int key=nums[i];
 
     while (i<j) {
-        while (i<j&&nums[j]>=key) j--;
-        nums[i]=nums[j];
-        while (i<j&&nums[i]<=key) i++;
-        nums[j]=nums[i];
+        while (i<j&&nums[j]>key) j--;
+        if (i<j) {
+            nums[i++]=nums[j];
+        }
+
+        while (i<j&&nums[i]<key) i++;
+        if (i<j) {
+            nums[j--]=nums[i];
+        }
     }
 
     nums[i]=key;

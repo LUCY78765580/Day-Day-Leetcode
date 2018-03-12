@@ -92,7 +92,7 @@ struct GraphNode* buildGraph() {
     return Graph;
 }
 ```
-
+<br>
 
 ### 4、完整建立一个Graph-2(简化版本)
 ```c
@@ -109,10 +109,9 @@ void buildGraph() {
     scanf("%d",Ne);
     for (int k=0;k<Ne;k++) {
         scanf("%d %d %d",&v1,&v2,&weight);
+        G[v1][v2]=weight;
+        G[v2][v2]=weight;
     }
-
-    G[v1][v2]=weight;
-    G[v2][v2]=weight;
 }
 ```
 <br>
