@@ -93,6 +93,10 @@ struct GraphNode* buildGraph() {
 }
 ```
 <br>
+<<<<<<< HEAD:C/graph/summary_Graph-1-Adjacency Matrix.md
+=======
+
+>>>>>>> c33ef0ac31ef440282be825225d03108b4567dda:C/graph/summary_Graph-1.md
 
 ### 4、完整建立一个Graph-2(简化版本)
 ```c
