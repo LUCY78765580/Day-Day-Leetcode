@@ -108,7 +108,7 @@
 - [121  Best Time to Buy and Sell Stock](https://github.com/LUCY78765580/Day-Day-Leetcode/blob/master/C/array/121_Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 - [122  Best Time to Buy and Sell Stock II](https://github.com/LUCY78765580/Day-Day-Leetcode/blob/master/C/array/122_Best%20Time%20to%20Buy%20and%20Sell%20Stock-2.md)
 
-3、其它
+其它
 
 - [026 Remove Duplicates from Sorted Array](https://github.com/LUCY78765580/Day-Day-Leetcode/blob/master/C/array/026_Remove%20Duplicates%20from%20Sorted%20Array.md)
 - [080 Remove Duplicates from Sorted Array II](https://github.com/LUCY78765580/Day-Day-Leetcode/blob/master/C/array/080_Remove%20Duplicates%20from%20Sorted%20Array-2.md)
