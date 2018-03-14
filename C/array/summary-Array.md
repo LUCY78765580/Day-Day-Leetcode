@@ -49,6 +49,8 @@
 <br>
 
 ### 快慢指针/双指针
+- [011  Container With Most Water](https://github.com/LUCY78765580/Day-Day-Leetcode/blob/master/C/array/011_Container%20With%20Most%20Water.md)
+- [042  Trapping Rain Water](https://github.com/LUCY78765580/Day-Day-Leetcode/blob/master/C/array/042_Trapping%20Rain%20Water.md)
 - [075  Sort Colors](https://github.com/LUCY78765580/Day-Day-Leetcode/blob/master/C/array/075_Sort%20Colors.md)
 - [167 Two Sum II - Input array is sorted](https://github.com/LUCY78765580/Day-Day-Leetcode/blob/master/C/array/167_Two%20Sum-2(Input%20Array%20is%20Sorted).md)
 - [287 Find the Duplicate Number](https://github.com/LUCY78765580/Day-Day-Leetcode/blob/master/C/array/287_Find%20the%20Duplicate%20Number.md)
@@ -100,12 +102,8 @@
 <br>
 
 ### 其它(很多都是查找)
-1、接雨水问题
 
-- [011  Container With Most Water](https://github.com/LUCY78765580/Day-Day-Leetcode/blob/master/C/array/011_Container%20With%20Most%20Water.md)
-- [042  Trapping Rain Water](https://github.com/LUCY78765580/Day-Day-Leetcode/blob/master/C/array/042_Trapping%20Rain%20Water.md)
-
-2、买卖股票问题
+买卖股票问题
 
 - [121  Best Time to Buy and Sell Stock](https://github.com/LUCY78765580/Day-Day-Leetcode/blob/master/C/array/121_Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 - [122  Best Time to Buy and Sell Stock II](https://github.com/LUCY78765580/Day-Day-Leetcode/blob/master/C/array/122_Best%20Time%20to%20Buy%20and%20Sell%20Stock-2.md)
