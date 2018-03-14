@@ -76,27 +76,7 @@ void Bubble_Sort(int* nums,int numsSize) {
 算法：
 
 ```c
-void Quick_Sort(int* nums,int left,int right) {
-    if (left>=right) return ;
-
-    int i=left;
-    int j=right;
-    int key=nums[i];
-
-    while (i<j) {
-        while (i<j&&nums[j]>key) j--;
-        if (i<j) {
-            nums[i++]=nums[j];
-        }
-
-        while (i<j&&nums[i]<key) i++;
-        if (i<j) {
-            nums[j--]=nums[i];
-        }
-    }
-
-    nums[i]=key;
-    Quicvoid QSort(int* nums,int left,int right) {
+void QSort(int* nums,int left,int right) {
     if (left>=right) return ;
 
     int i=left;
