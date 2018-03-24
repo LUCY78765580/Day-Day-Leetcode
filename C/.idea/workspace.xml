@@ -12,12 +12,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="189_Rotate Array.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/array/189_Rotate Array.md">
+      <file leaf-file-name="summary-Array.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/array/summary-Array.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="-1718">
-                <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="111">
+                <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -32,41 +32,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data structure/binary tree/034_.md" />
-        <option value="$PROJECT_DIR$/data structure/binary tree/039_.md" />
-        <option value="$PROJECT_DIR$/data structure/binary tree/040_.md" />
-        <option value="$PROJECT_DIR$/data structure/binary tree/041_.md" />
-        <option value="$PROJECT_DIR$/data structure/binary tree/042_.md" />
-        <option value="$PROJECT_DIR$/data structure/binary tree/045_.md" />
-        <option value="$PROJECT_DIR$/data structure/binary tree/055_.md" />
-        <option value="$PROJECT_DIR$/data structure/binary tree/054_.md" />
-        <option value="$PROJECT_DIR$/data structure/array/016_.md" />
-        <option value="$PROJECT_DIR$/data structure/binary tree/222_Count Complete Tree Nodes.md" />
-        <option value="$PROJECT_DIR$/data structure/binary tree/summary-binary tree-3.md" />
-        <option value="$PROJECT_DIR$/data structure/binary tree/654_Maximum Binary Tree.md" />
-        <option value="$PROJECT_DIR$/data structure/binary tree/662_Maximum Width of Binary Tree.md" />
-        <option value="$PROJECT_DIR$/data structure/binary search tree/109_Convert Sorted List to Binary Search Tree.md" />
-        <option value="$PROJECT_DIR$/data structure/binary tree/236_Lowest Common Ancestor of a Binary Tree.md" />
-        <option value="$PROJECT_DIR$/data structure/binary search tree/235_Lowest Common Ancestor of a Binary Search Tree.md" />
-        <option value="$PROJECT_DIR$/data structure/binary search tree/450_Delete Node in BST.md" />
-        <option value="$PROJECT_DIR$/data structure/binary tree/230_Kth Smallest Element in a BST.md" />
-        <option value="$PROJECT_DIR$/data structure/binary search tree/95_.md" />
-        <option value="$PROJECT_DIR$/data structure/binary search tree/96_.md" />
-        <option value="$PROJECT_DIR$/data structure/binary search tree/summary-binary search tree(BST).md" />
-        <option value="$PROJECT_DIR$/data structure/binary search tree/96_Unique Binary Search Tree.md" />
-        <option value="$PROJECT_DIR$/data structure/binary search tree/95_Unique Binary Search Tree-2.md" />
-        <option value="$PROJECT_DIR$/data structure/binary tree/501_Find Mode in Binary Search Tree.md" />
-        <option value="$PROJECT_DIR$/data structure/binary search tree/530_Minimum Absolute Difference in BST.md" />
-        <option value="$PROJECT_DIR$/data structure/binary search tree/summary-binary search tree(BST)-2.md" />
-        <option value="$PROJECT_DIR$/data structure/graph/summary_Graph.md" />
-        <option value="$PROJECT_DIR$/data structure/graph/summary_Graph-2.md" />
-        <option value="$PROJECT_DIR$/data structure/graph/summary_Graph-1.md" />
-        <option value="$PROJECT_DIR$/graph/summary_Graph-2.md" />
-        <option value="$PROJECT_DIR$/graph/summary_Graph-1.md" />
-        <option value="$PROJECT_DIR$/graph/summary_Graph-3.md" />
-        <option value="$PROJECT_DIR$/graph/summary_Graph-1-Adjacency Matrix.md" />
         <option value="$PROJECT_DIR$/graph/summary_Graph-4-Minimum Spaning Tree.md" />
-        <option value="$PROJECT_DIR$/array/001_Two Sum.md" />
         <option value="$PROJECT_DIR$/array/026_Remove Duplicates from Sorted Array.md" />
         <option value="$PROJECT_DIR$/array/053_Maximum Subarray.md" />
         <option value="$PROJECT_DIR$/array/062_Unique Paths.md" />
@@ -75,7 +41,6 @@
         <option value="$PROJECT_DIR$/array/080_Remove Duplicates from Sorted Array-2.md" />
         <option value="$PROJECT_DIR$/array/088_Merge Sorted Array.md" />
         <option value="$PROJECT_DIR$/array/167_Two Sum-2(Input Array is Sorted).md" />
-        <option value="$PROJECT_DIR$/sort/summary-8 kinds of sort.md" />
         <option value="$PROJECT_DIR$/sort/015_3sum.md" />
         <option value="$PROJECT_DIR$/array/035_Search Insert Position.md" />
         <option value="$PROJECT_DIR$/array/027_Remove Element.md" />
@@ -83,12 +48,48 @@
         <option value="$PROJECT_DIR$/array/189_Rotate Array.md" />
         <option value="$PROJECT_DIR$/array/283_Move Zeroes.md" />
         <option value="$PROJECT_DIR$/array/674_Longest Continuous Increasing Subsequece.md" />
+        <option value="$PROJECT_DIR$/array/015_3 Sum.md" />
+        <option value="$PROJECT_DIR$/array/016_3 Sum Closest.md" />
+        <option value="$PROJECT_DIR$/array/018_4 Sum.md" />
+        <option value="$PROJECT_DIR$/array/039_Combination Sum.md" />
+        <option value="$PROJECT_DIR$/array/040_Combination Sum-2.md" />
+        <option value="$PROJECT_DIR$/array/090_Subsets.md" />
+        <option value="$PROJECT_DIR$/array/054_Spiral Matrix.md" />
+        <option value="$PROJECT_DIR$/array/059_Spiral Matrix-2.md" />
+        <option value="$PROJECT_DIR$/array/074_Search a 2D Matrix.md" />
+        <option value="$PROJECT_DIR$/array/073_Set Matrix Zeroes.md" />
+        <option value="$PROJECT_DIR$/array/118_Pascal's Triangle.md" />
+        <option value="$PROJECT_DIR$/array/119_Pascal's Triangle-2.md" />
+        <option value="$PROJECT_DIR$/array/023_Merge  K Sorted Lists.md" />
+        <option value="$PROJECT_DIR$/array/011_Container With Most Water.md" />
+        <option value="$PROJECT_DIR$/array/042_Trapping Rain Water.md" />
+        <option value="$PROJECT_DIR$/array/055_Jump Game.md" />
+        <option value="$PROJECT_DIR$/array/045_Jump Game-2.md" />
+        <option value="$PROJECT_DIR$/array/075_Sort Colors.md" />
+        <option value="$PROJECT_DIR$/array/081_Search in Rotated Sorted Array-2.md" />
+        <option value="$PROJECT_DIR$/array/034_Search for a Range.md" />
+        <option value="$PROJECT_DIR$/array/041_First Missing Positive.md" />
+        <option value="$PROJECT_DIR$/array/121_Best Time to Buy and Sell Stock.md" />
+        <option value="$PROJECT_DIR$/array/122_Best Time to Buy and Sell Stock-2.md" />
+        <option value="$PROJECT_DIR$/array/128_Longest Consecutive Sequence.md" />
+        <option value="$PROJECT_DIR$/array/152_Maximum Product Subarray.md" />
+        <option value="$PROJECT_DIR$/array/033_Search in Rotated Sorted Array.md" />
+        <option value="$PROJECT_DIR$/array/153_Find Minimum in Rotated Sorted Array.md" />
+        <option value="$PROJECT_DIR$/array/154_Find Minimum in Roated Sorted Array-2.md" />
+        <option value="$PROJECT_DIR$/array/162_Find Peak Element.md" />
+        <option value="$PROJECT_DIR$/array/215_Kth Largest Element in an Array.md" />
+        <option value="$PROJECT_DIR$/array/287_Find the Duplicate Number.md" />
+        <option value="$PROJECT_DIR$/array/643_Maximum Average Subarray.md" />
+        <option value="$PROJECT_DIR$/sort/summary-8 kinds of sort.md" />
+        <option value="$PROJECT_DIR$/array/001_Two Sum.md" />
+        <option value="$PROJECT_DIR$/array/summary-Array.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="width" value="1378" />
+    <option name="x" value="421" />
+    <option name="y" value="231" />
+    <option name="width" value="782" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectView">
@@ -106,7 +107,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -129,18 +129,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="heap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="C" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="C" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="array" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../操作系统" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -234,19 +249,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="0" width="1378" height="744" extended-state="0" />
+    <frame x="421" y="231" width="782" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2276176" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31717452" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11608498" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -285,30 +300,23 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data structure/binary tree/236_Lowest Common Ancestor of a Binary Tree.md" />
-    <entry file="file://$PROJECT_DIR$/data structure/binary search tree/235_Lowest Common Ancestor of a Binary Search Tree.md" />
-    <entry file="file://$PROJECT_DIR$/data structure/binary search tree/450_Delete Node in BST.md" />
-    <entry file="file://$PROJECT_DIR$/data structure/binary tree/230_Kth Smallest Element in a BST.md" />
-    <entry file="file://$PROJECT_DIR$/data structure/binary search tree/230_Kth Smallest Element in a BST.md" />
-    <entry file="file://$PROJECT_DIR$/data structure/binary search tree/96_.md" />
-    <entry file="file://$PROJECT_DIR$/data structure/binary search tree/95_.md" />
-    <entry file="file://$PROJECT_DIR$/data structure/binary tree/summary-binary tree-2.md" />
-    <entry file="file://$PROJECT_DIR$/data structure/binary search tree/96_Unique Binary Search Tree.md" />
-    <entry file="file://$PROJECT_DIR$/data structure/binary search tree/95_Unique Binary Search Tree-2.md" />
-    <entry file="file://$PROJECT_DIR$/data structure/binary search tree/098_Validate Binary Search Tree.md" />
-    <entry file="file://$PROJECT_DIR$/data structure/binary tree/094_Binary Tree Inorder Traversal.md" />
-    <entry file="file://$PROJECT_DIR$/data structure/binary tree/501_Find Mode in Binary Search Tree.md" />
-    <entry file="file://$PROJECT_DIR$/data structure/binary search tree/530_Minimum Absolute Difference in BST.md" />
-    <entry file="file://$PROJECT_DIR$/data structure/binary search tree/summary-binary search tree(BST).md" />
-    <entry file="file://$PROJECT_DIR$/data structure/graph/summary_Graph-2.md" />
-    <entry file="file://$PROJECT_DIR$/data structure/graph/summary_Graph-1.md" />
-    <entry file="file://$PROJECT_DIR$/data structure/graph/summary_Graph.md" />
-    <entry file="file://$PROJECT_DIR$/data structure/binary search tree/summary-binary search tree(BST)-2.md" />
-    <entry file="file://$PROJECT_DIR$/stack/summary-Stack-2.md">
+    <entry file="file://$PROJECT_DIR$/binary search tree/summary-binary search tree(BST).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="248">
-            <caret line="8" column="81" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <first_editor relative-caret-position="124">
+            <caret line="82" column="78" lean-forward="true" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="87" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linked-list/142_Linked List Cycle-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="93">
+            <caret line="3" column="4" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor>
@@ -317,11 +325,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graph/summary_Graph-3.md">
+    <entry file="file://$PROJECT_DIR$/sort/summary-8 kinds of sort.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="32">
-            <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <first_editor relative-caret-position="434">
+            <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
@@ -330,11 +338,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graph/summarr_Graph-4-Minimum Spaning Tree.md">
+    <entry file="file://$PROJECT_DIR$/array/001_Two Sum.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <caret line="0" column="11" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="14" />
             <folding />
           </first_editor>
           <second_editor>
@@ -343,11 +351,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graph/summary_Graph-1.md">
+    <entry file="file://$PROJECT_DIR$/array/015_3 Sum.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="155">
-            <caret line="41" column="27" lean-forward="false" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+          <first_editor relative-caret-position="-3144">
+            <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor>
@@ -356,11 +364,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graph/summary_Graph-2.md">
+    <entry file="file://$PROJECT_DIR$/array/016_3 Sum Closest.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="342">
-            <caret line="73" column="83" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="90" />
+          <first_editor relative-caret-position="-1518">
+            <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="20" />
             <folding />
           </first_editor>
           <second_editor>
@@ -369,7 +377,566 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graph/summary_Graph-4-AOV and AOE.md">
+    <entry file="file://$PROJECT_DIR$/array/018_4 Sum.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/023_Merge  K Sorted Lists.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-837">
+            <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="28" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/011_Container With Most Water.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="33" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/026_Remove Duplicates from Sorted Array.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="42" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/035_Search Insert Position.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="24" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/042_Trapping Rain Water.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="27" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/053_Maximum Subarray.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2710">
+            <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="23" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/041_First Missing Positive.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1842">
+            <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/040_Combination Sum-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-372">
+            <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/034_Search for a Range.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-4477">
+            <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="25" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/027_Remove Element.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1116">
+            <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/033_Search in Rotated Sorted Array.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1160">
+            <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="37" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/054_Spiral Matrix.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/059_Spiral Matrix-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/045_Jump Game-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="17" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/055_Jump Game.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-186">
+            <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="17" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/062_Unique Paths.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/066_Plus One.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="15" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/073_Set Matrix Zeroes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="25" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/074_Search a 2D Matrix.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/075_Sort Colors.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/080_Remove Duplicates from Sorted Array-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="40" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="45" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/081_Search in Rotated Sorted Array-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="35" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="40" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/088_Merge Sorted Array.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="25" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/090_Subsets.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/118_Pascal's Triangle.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="25" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/119_Pascal's Triangle-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="28" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/121_Best Time to Buy and Sell Stock.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-912">
+            <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="39" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/122_Best Time to Buy and Sell Stock-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-372">
+            <caret line="0" column="36" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="42" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/152_Maximum Product Subarray.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-372">
+            <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="31" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/128_Longest Consecutive Sequence.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="30" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="35" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/153_Find Minimum in Rotated Sorted Array.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="43" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/154_Find Minimum in Roated Sorted Array-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="40" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="46" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/162_Find Peak Element.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/167_Two Sum-2(Input Array is Sorted).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2679">
+            <caret line="0" column="37" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="41" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/169_Majority Element.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-6324">
+            <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="23" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/189_Rotate Array.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/215_Kth Largest Element in an Array.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="38" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/283_Move Zeroes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/287_Find the Duplicate Number.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="32" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/643_Maximum Average Subarray.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="27" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="33" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/674_Longest Continuous Increasing Subsequece.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="45" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="49" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/039_Combination Sum.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1470">
+            <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="19" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heap/summary-heap.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -385,333 +952,8 @@
     <entry file="file://$PROJECT_DIR$/array/summary-Array.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linked-list/summary-LinkedList.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="279">
-            <caret line="9" column="93" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="95" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/summary_Graph-2-Adjacency List.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="31">
-            <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/summary_Graph-5-AOV and AOE.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/summary_Graph-5-Shorted Path.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/summary_Graph-3-DFS and BFS.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-354">
-            <caret line="5" column="83" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="90" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/summary_Graph-1-Adjacency Matrix.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1475">
-            <caret line="112" column="25" lean-forward="true" selection-start-line="112" selection-start-column="25" selection-end-line="112" selection-end-column="25" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/summary_Graph-4-Minimum Spaning Tree.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1023">
-            <caret line="76" column="14" lean-forward="false" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/summary_Graph.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sort/015_3sum.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="218">
-            <caret line="40" column="14" lean-forward="false" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sort/summary-8 kinds of sort.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="32">
-            <caret line="100" column="1" lean-forward="false" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/062_Unique Paths.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="93">
-            <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/066_Plus One.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="62">
-            <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/080_Remove Duplicates from Sorted Array-2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="279">
-            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/088_Merge Sorted Array.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="775">
-            <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/167_Two Sum-2(Input Array is Sorted).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="248">
-            <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/binary search tree/summary-binary search tree(BST).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="124">
-            <caret line="82" column="78" lean-forward="true" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="87" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/283_Move Zeroes.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="63">
-            <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/674_Longest Continuous Increasing Subsequece.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/053_Maximum Subarray.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="62">
-            <caret line="2" column="4" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="4" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/169_Majority Element.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-4185">
-            <caret line="0" column="21" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="23" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/027_Remove Element.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1208">
-            <caret line="0" column="19" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="21" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/035_Search Insert Position.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-61">
-            <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/026_Remove Duplicates from Sorted Array.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-602">
-            <caret line="0" column="40" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="42" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/001_Two Sum.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="141" column="5" lean-forward="true" selection-start-line="141" selection-start-column="5" selection-end-line="141" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/189_Rotate Array.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-1718">
-            <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <first_editor relative-caret-position="111">
+            <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>

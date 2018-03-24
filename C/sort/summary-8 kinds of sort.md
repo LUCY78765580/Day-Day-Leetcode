@@ -51,7 +51,6 @@ void Bubble_Sort(int* nums,int numsSize) {
 ```
 <br>
 <br>
-<br>
 
 ### 2、快速排序(Quick Sort)
 
@@ -106,7 +105,6 @@ void Quick_Sort(int* nums,int numsSize) {
 ```
 <br>
 <br>
-<br>
 
 ### 3、直接插入排序(Straight Insertion Sort)
 
@@ -134,7 +132,6 @@ void Insert_Sort(int* nums,int numsSize) {
     }
 }
 ```
-<br>
 <br>
 <br>
 
@@ -176,7 +173,6 @@ void Shell_Sort(int* nums,int numsSize) {
 ```
 <br>
 <br>
-<br>
 
 
 ### 5、简单选择排序（Simple Selection Sort）
@@ -216,7 +212,6 @@ void Select_Sort(int* nums,int numsSize) {
     }
 }
 ```
-<br>
 <br>
 <br>
 
@@ -294,7 +289,6 @@ void Heap_Sort(int* nums,int numsSize) {
 ```
 <br>
 <br>
-<br>
 
 ### 7、归并排序(Merge Sort)
 
@@ -353,7 +347,6 @@ void Merge_Sort(int* nums,int numsSize) {
     }
 }
 ```
-<br>
 <br>
 <br>
 
