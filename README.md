@@ -52,7 +52,7 @@
 #### 6、二叉搜索树
 - [BST](https://github.com/LUCY78765580/Day-Day-Leetcode/blob/master/C/binary%20search%20tree/summary-binary%20search%20tree(BST).md)
 
-- [题目总结与归纳](https://github.com/LUCY78765580/Day-Day-Leetcode/blob/master/C/binary%20search%20tree/summary-binary%20search%20tree(BST)-2.md)
+- [题目汇总与归纳](https://github.com/LUCY78765580/Day-Day-Leetcode/blob/master/C/binary%20search%20tree/summary-binary%20search%20tree(BST)-2.md)
 
 <br>
 
