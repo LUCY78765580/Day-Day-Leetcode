@@ -5,7 +5,7 @@
 <br>
 
 #### 1、数组
-- [题目汇总与归纳](https://github.com/LUCY78765580/Day-Day-Leetcode/tree/master/C/array)
+- [题目汇总与归纳](https://github.com/LUCY78765580/Day-Day-Leetcode/blob/master/C/array/summary-Array.md)
 <br>
 
 
